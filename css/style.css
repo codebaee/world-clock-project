@@ -13,7 +13,7 @@ h1 {
 }
 h2 {
   margin: 0;
-  font-size: 40px;
+  font-size: 58px;
 }
 footer {
   text-align: center;
@@ -32,9 +32,9 @@ a:hover {
   background-color: #a91514;
   padding: 40px 60px;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 60px auto;
   padding: 80px;
-  margin: 60px 60px;
+
   border: 15px solid whitesmoke;
   border-radius: 50px;
   box-shadow: 20px 15px 7px rgba(169, 21, 20, 0.5);
@@ -59,15 +59,19 @@ select {
 .city {
   display: flex;
   justify-content: space-between;
+  border-bottom: 1px solid whitesmoke;
+  padding: 40px 0;
+  margin: 20px 0;
 }
 .time {
-  font-size: 50px;
+  font-size: 80px;
   font-weight: bold;
 }
 .time small {
-  font-size: 30px;
+  font-size: 40px;
   vertical-align: middle;
 }
 .date {
   opacity: 0.6;
+  font-size: 30px;
 }
