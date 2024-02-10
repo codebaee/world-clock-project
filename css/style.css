@@ -34,7 +34,6 @@ a:hover {
   max-width: 900px;
   margin: 60px auto;
   padding: 80px;
-
   border: 15px solid whitesmoke;
   border-radius: 50px;
   box-shadow: 20px 15px 7px rgba(169, 21, 20, 0.5);
@@ -64,7 +63,7 @@ select {
   margin: 20px 0;
 }
 .time {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: bold;
 }
 .time small {
